@@ -161,10 +161,7 @@ This project is an educational software simulation. It is not a certified Batter
 
 👨‍💻 Author
 
-Your Name
+bruh
 
-GitHub: @YOUR-USERNAME
 
-📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
